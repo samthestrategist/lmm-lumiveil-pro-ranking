@@ -246,3 +246,9 @@ export const RANK_REFERENCES = [
 ];
 
 export const RANK_DISCLAIMER = "ADVERTISER DISCLOSURE: The Dermal Review is compensated for product recommendations on this page. Opinions expressed are based on our editorial team's research and testing methodology. Individual results may vary. These statements have not been evaluated by the FDA. These products are not intended to diagnose, treat, cure, or prevent any disease. Clinical study results referenced are from published peer-reviewed research and may not reflect typical consumer results. Please consult your dermatologist before beginning any new skincare device regimen, especially if you have photosensitivity or use photosensitizing medications. Last updated: February 2026.";
+
+// Competitor Product Images
+export const RANK_PRODUCT_2_IMG = "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/RANK_PRODUCT_2_IMG.png?v=1772253149";
+export const RANK_PRODUCT_3_IMG = "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/RANK_PRODUCT_3_IMG.png?v=1772253152";
+export const RANK_PRODUCT_4_IMG = "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/RANK_PRODUCT_4_IMG.png?v=1772253155";
+export const RANK_PRODUCT_5_IMG = "https://cdn.shopify.com/s/files/1/0462/8591/4267/files/RANK_PRODUCT_5_IMG.png?v=1772253158";

@@ -31,6 +31,10 @@ export default function Index() {
 
   const getProductImage = (p: typeof C.RANK_PRODUCTS[0]) => {
     if (p.rank === 1) return C.CDN_EDITOR_CHOICE;
+    if (p.rank === 2) return C.RANK_PRODUCT_2_IMG;
+    if (p.rank === 3) return C.RANK_PRODUCT_3_IMG;
+    if (p.rank === 4) return C.RANK_PRODUCT_4_IMG;
+    if (p.rank === 5) return C.RANK_PRODUCT_5_IMG;
     return C.PDP_HERO_1; // fallback
   };
 
